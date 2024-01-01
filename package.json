@@ -75,6 +75,7 @@
     "yup": "0.32.11"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.8.3",
     "@iconify/iconify": "3.0.1",
     "@iconify/json": "2.2.4",
     "@iconify/tools": "2.2.0",
