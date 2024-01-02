@@ -13,7 +13,7 @@ const Home = () => {
           <CardHeader title='Kick start your project 🚀'></CardHeader>
           <CardContent>
             <Typography sx={{ mb: 2 }}>All the best for your new project.</Typography>
-            <Typography>This is a sample template fpor cloud flare test from sohaib</Typography>
+            <Typography>This is a sample template for cloud flare test from sohaib</Typography>
           </CardContent>
         </Card>
       </Grid>
