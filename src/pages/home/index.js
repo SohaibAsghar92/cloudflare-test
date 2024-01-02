@@ -10,7 +10,6 @@ const Home = () => {
     <Grid container spacing={6}>
       <Grid item xs={12}>
         <Card>
-          <CardHeader title='Kick start your project 🚀'></CardHeader>
           <CardContent>
             <Typography sx={{ mb: 2 }}>All the best for your new project.</Typography>
             <Typography>Hi This is a template for cloudflare test</Typography>
