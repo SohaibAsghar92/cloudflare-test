@@ -8,7 +8,7 @@ const Home = () => {
           <CardTitle>Kick start your project 🚀</CardTitle>
         </CardHeader>
         <CardBody>
-          <CardText>All the best for your new project.</CardText>
+          <CardText>All the best for your new project</CardText>
           <CardText>Hi this is a dummy template for cloudflare upload test from Sohaib</CardText>
         </CardBody>
       </Card>
